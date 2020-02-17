@@ -1,3 +1,5 @@
+(Camille Bretteville, Victor Wang)
+
 # BE PHP
 
 Application de gestion de librairie en ligne avec LAMP  
